@@ -1,9 +1,10 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "samuelrsheldon",
+  "description": "The personal website of Samuel R. Sheldon",
+  "homepage": "https://srsheldon.github.io/samuelrsheldon",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "version": "0.0.0",
+  "author": "Samuel R. Sheldon <samuelrsheldon@gmail.com>",
   "dependencies": {
     "gatsby": "^2.1.19",
     "gatsby-image": "^2.0.30",
@@ -23,6 +24,7 @@
     "prettier": "^1.16.4"
   },
   "keywords": [
+    "samuelrsheldon",
     "gatsby"
   ],
   "license": "MIT",
@@ -37,9 +39,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/srsheldon/samuelrsheldon"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/srsheldon/samuelrsheldon/issues"
   }
 }
